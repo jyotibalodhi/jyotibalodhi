@@ -1,4 +1,4 @@
-### Hi there 👋 
+## Hi there 👋 
 
 ## My name is Jyoti Balodhi and I am a tech enthusiast. 🧐
 I'm a `Web Developer` , `Competitive Programmer` and a `Community lover` 💖 Also I am a self taught developer and have good knowledge of C++, HTML5, CSS3, JavaScript. I am keen to learn backend technologies in the upcoming months.✨
@@ -30,5 +30,5 @@ Apart from coding, I also maintain a blog - you can find my articles on Medium a
 [2]: https://github.com/jyotibalodhi
 [3]: https://www.linkedin.com/in/jyoti-balodhi-88740414b
 
-# Hey also have a look my website here https://github.com/jyotibalodhi/jyotibalodhi.github.io
+### Hey also have a look my website here https://github.com/jyotibalodhi/jyotibalodhi.github.io
 
