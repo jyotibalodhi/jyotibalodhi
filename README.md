@@ -9,26 +9,20 @@ Apart from coding, I also maintain a blog - you can find my articles on Medium a
 
 ## 🔧 Technologies & Tools
 
-<ul>
-  <li>C++</li>
-  <li>HTML5</li>  
-  <li>CSS3</li>
-  <li>Bootstrap4</li>
-  <li>JavaScript</li>
-  <li>Python</li>
-</ul>
+- C++
+- HTML5
+- CSS3
+- Bootstrap4
+- JavaScript
+- Python
 
 ## 🤝 Connect with me here 
-  
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
 <!-- links to social media accounts -->
 
-[1]: https://twitter.com/JyotiBalodhi?s=03
-[2]: https://github.com/jyotibalodhi
-[3]: https://www.linkedin.com/in/jyoti-balodhi-88740414b
+- [LinkedIn](https://www.linkedin.com/in/jyoti-balodhi-88740414b)
+- [Twitter](https://twitter.com/JyotiBalodhi?s=03)
+- [GitHub](https://github.com/jyotibalodhi)
 
-### Hey also have a look my website here https://github.com/jyotibalodhi/jyotibalodhi.github.io
+
+### Hey also have a look my website here https://jyotibalodhi.github.io/
 
