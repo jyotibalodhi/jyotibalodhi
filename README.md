@@ -22,5 +22,5 @@ Apart from coding, I also maintain a blog - you can find my articles on Medium a
 - [LinkedIn](https://www.linkedin.com/in/jyoti-balodhi-88740414b)
 - [Twitter](https://twitter.com/JyotiBalodhi?s=03)
 
-### Hey also have a look my website here https://jyotibalodhi.github.io/
+### Hey also have a look at my website here https://jyotibalodhi.github.io/
 
