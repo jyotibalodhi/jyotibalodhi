@@ -15,11 +15,13 @@ Apart from coding, I also maintain a blog - you can find my articles on Medium a
 - Bootstrap4
 - JavaScript
 - Python
+- React
+- React Native
 
 ## 🤝 Connect with me here 
 <!-- links to social media accounts -->
 
-- [LinkedIn](https://www.linkedin.com/in/jyoti-balodhi-88740414b)
+- [LinkedIn](https://www.linkedin.com/in/jyotibalodhi)
 - [Twitter](https://twitter.com/JyotiBalodhi?s=03)
 
 ### Hey also have a look at my website here https://jyotibalodhi.github.io/
