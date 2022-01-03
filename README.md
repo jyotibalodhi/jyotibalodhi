@@ -14,7 +14,6 @@ Apart from coding, I also maintain a blog - you can find my articles on Medium a
 - CSS3
 - Bootstrap4
 - JavaScript
-- Python
 - React
 - React Native
 
