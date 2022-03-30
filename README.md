@@ -6,12 +6,13 @@ I'm a `Web Developer` , `Programmer` and a `Community lover`. I am currently pur
 ## 🔧 Technologies & Tools
 
 - C++
-- HTML5
-- CSS3
-- Bootstrap4
 - JavaScript
 - React
 - React Native
+- HTML5
+- CSS3
+- Bootstrap4
+
 
 ## 🤝 Connect with me here 
 <!-- links to social media accounts -->
