@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 ## My name is Jyoti Balodhi and I am a tech enthusiast. 🧐
-I'm a `Developer` , `Programmer` and a `Community lover`. I am currently pursuing Masters in Computer Application, and have good knowledge of C++, HTML5, CSS3, JavaScript, React Native, DSA. I am keen to learn backend technologies in the upcoming months.✨
+I'm a `Developer` , `Programmer` and a `Community lover`. I am currently pursuing Masters in Computer Application, and have good knowledge of C++, HTML5, CSS3, JavaScript, React Native, React, DSA. I am keen to learn backend technologies in the upcoming months.✨
 
 ## 🔧 Technologies & Tools
 
@@ -11,7 +11,6 @@ I'm a `Developer` , `Programmer` and a `Community lover`. I am currently pursuin
 - React Native
 - HTML5
 - CSS3
-- Bootstrap4
 
 
 ## 🤝 Connect with me here 
