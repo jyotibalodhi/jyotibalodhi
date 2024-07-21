@@ -25,5 +25,4 @@ I'm a `Developer` , `Programmer` and a `Community lover`. I am currently pursuin
 
 Apart from coding, I also maintain a blog - you can find my articles on Medium at https://medium.com/@jyotibalodhi 
 
-### Hey also have a look at my website here https://jyotibalodhi.github.io/
 
