@@ -1,28 +1,22 @@
-## Hi there 👋 
+## Hi there 👋  
 
-## My name is Jyoti Balodhi and I am a tech enthusiast. 🧐
-I'm a `Developer` , `Programmer` and a `Community lover`. I am currently pursuing Masters in Computer Application, and have good knowledge of C++, HTML5, CSS3, JavaScript, React Native, React, DSA. I am keen to learn backend technologies in the upcoming months.✨
+I'm **Jyoti Balodhi**, a **Software Development Engineer** passionate about building scalable and efficient software solutions. I enjoy working across multiple tech stacks, solving complex problems, and continuously learning new technologies to improve system design and user experiences.  
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools  
 
-- C++
-- JavaScript
-- React
-- React Native
-- HTML5
-- CSS3
+- **Languages:** Java, Kotlin, JavaScript, C++  
+- **Frontend:** React, React Native, HTML5, CSS3  
+- **Backend:** REST APIs, Spring Boot  
+- **Databases:** DynamoDB  
+- **DevOps & Testing:** Dependency Injection, Unit Testing, API Mocking  
 
+## 🚀 What I'm Working On  
 
-## 🤝 Connect with me here 
-<!-- links to social media accounts -->
-
-- [LinkedIn](https://www.linkedin.com/in/jyotibalodhi)
-- [Twitter](https://twitter.com/JyotiBalodhi?s=03)
-- [LeetCode](https://leetcode.com/Jyoti_Balodhi)
+I am currently working at **Amazon**, focusing on **SaaS platforms that empower small-scale businesses** by helping them streamline operations and enhance their digital presence. My experience includes **building web and mobile applications, integrating payment systems, optimizing user flows, and improving platform reliability**.  
 
 
-## ✍ Blog & Writing
+## 🤝 Connect with Me  
 
-Apart from coding, I also maintain a blog - you can find my articles on Medium at https://medium.com/@jyotibalodhi 
-
-
+- [LinkedIn](https://www.linkedin.com/in/jyotibalodhi)  
+- [LeetCode](https://leetcode.com/Jyoti_Balodhi)  
+- [Medium Blog](https://medium.com/@jyotibalodhi)  
